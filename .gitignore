@@ -1,0 +1,28 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated outputs
+out/
+
+# Private or heavyweight CAD/project inputs
+*.dwg
+*.dxf
+*.bak
+*.tmp
+*.log
+
+# Local previews and private screenshots
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Allow intentionally public fixtures/assets.
+!examples/**/*.dxf
+!examples/**/*.png
+!examples/**/*.jpg
+!docs/**/*.png
+!docs/**/*.jpg
