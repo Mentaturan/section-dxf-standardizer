@@ -1,5 +1,7 @@
 # Section DXF Standardizer
 
+English | [中文](README-zh.md)
+
 Agent-ready workflow and Python tooling for cleaning paired architectural section DXF exports into AutoCAD-compatible, editable, multi-layer technical drawings.
 
 ## What It Does
@@ -15,20 +17,6 @@ The batch workflow scans numbered DXF pairs, detects coordinate offsets, aligns 
 - PNG previews
 - per-section Markdown reports
 - an all-sections summary report
-
-## GitHub Repository Description
-
-Use this as the GitHub "About" description:
-
-```text
-Agent-ready Python workflow for cleaning paired architectural section DXF files into AutoCAD-compatible, layered technical drawings.
-```
-
-Suggested GitHub topics:
-
-```text
-autocad dxf cad architecture architectural-drawing computational-design drafting-automation geometry-cleanup ezdxf python codex-skill
-```
 
 ## Status
 
@@ -144,4 +132,4 @@ The included `.gitignore` blocks common CAD sources and generated output folders
 
 ## License
 
-Choose a license before publishing. MIT is simple and permissive; Apache-2.0 is also permissive and includes an explicit patent grant.
+[MIT License](LICENSE)

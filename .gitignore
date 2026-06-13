@@ -19,6 +19,7 @@ out/
 *.jpg
 *.jpeg
 *.webp
+*.psd
 
 # Allow intentionally public fixtures/assets.
 !examples/**/*.dxf
